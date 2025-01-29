@@ -1,0 +1,8 @@
+tiktoken
+python-dotenv
+qdrant-client
+sentence-transformers
+groq
+PyPDF2
+python-docx
+tqdm
